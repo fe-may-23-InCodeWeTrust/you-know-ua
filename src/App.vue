@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <h1>You know ua</h1>
+  <router-view></router-view>
 </template>
 
 <style>
